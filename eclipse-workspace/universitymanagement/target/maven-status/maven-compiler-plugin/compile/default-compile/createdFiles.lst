@@ -1,0 +1,10 @@
+event\ChangePass.class
+faculty\faclogin.class
+outsider\outloginpass.class
+outsider\outsiderdetails.class
+event\UpdateEvent.class
+faculty\facultydetails.class
+student\loginpass.class
+event\CreateEvent.class
+student\studentdetails.class
+event\SearchServelet.class
